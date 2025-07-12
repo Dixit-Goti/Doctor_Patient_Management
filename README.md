@@ -77,7 +77,7 @@ This project includes a complete **React.js frontend**, **Node.js + Express back
 ### 🔽 Clone the Repository
 
 ```bash
-git clone https://github.com/kevin-savaliya/Doctor_Patient_Management.git
+git clone https://github.com/Dixit-Goti/Doctor_Patient_Management.git
 cd Doctor_Patient_Management
 ```
 
